@@ -7,7 +7,7 @@ import Register from "./components/form";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App container">
         <h1 className="text-center text-primary">Sign Up</h1>
       <Register/>
     </div>
